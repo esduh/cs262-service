@@ -28,3 +28,4 @@ The service is RESTful because of the following points:
 
 **Is there any evidence in your implementation of an impedance mismatch?**
 
+Yes; impedance mismatches occur due to the differences between the database model and the programming language model. 
